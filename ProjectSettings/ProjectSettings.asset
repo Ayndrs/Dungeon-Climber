@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 4aad9f859f3267b439efa232f65339ed
+  productGUID: 2f5c58b28087163488e974088368a89d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -564,7 +564,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: SCENE_FUSION
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
